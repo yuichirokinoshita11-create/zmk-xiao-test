@@ -1,3 +1,3 @@
 include:
   - board: xiao_ble
-    shield: tester_xiao
+    shield: onekey_xiao

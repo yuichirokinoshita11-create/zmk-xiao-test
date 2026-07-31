@@ -1,2 +1,0 @@
-config SHIELD_FOURKEY_XIAO
-    def_bool $(shields_list_contains,fourkey_xiao)

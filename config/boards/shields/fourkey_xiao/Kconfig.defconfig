@@ -1,6 +1,0 @@
-if SHIELD_FOURKEY_XIAO
-
-config ZMK_KEYBOARD_NAME
-    default "FourKey XIAO"
-
-endif

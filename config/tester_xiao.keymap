@@ -11,6 +11,13 @@
                 &kp B
                 &kp C
                 &kp D
+                &none
+                &none
+                &none
+                &none
+                &none
+                &none
+                &none
             >;
         };
     };
